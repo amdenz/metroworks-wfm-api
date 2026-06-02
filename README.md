@@ -4,7 +4,7 @@ Synthetic workforce-management data engineering project using Python, SQL Server
 
 ## What this demonstrates
 ## API Documentation Preview
-![Swagger UI](apidocs_screenshot.png)
+![API Documentation](apidocs_screenshot.png)
 
 - Python data generation
 - SQL Server loading with `pandas.to_sql`
