@@ -120,6 +120,6 @@ Example shape:
 ]
 ```
 
-## Suggested portfolio wording
+##Description
 
 MetroWorks WFM API is a synthetic workforce-management data engineering project built with Python, SQL Server, and Flask. The project generates 150,000 realistic IT support tickets, contact logs, survey records, schedules, outages, and ticket transfers. It loads the data into SQL Server with relational constraints, performance indexes,. A Flask API exposes paginated operational records, record-level ticket lookup, searchable ticket filters, health checks, Swagger documentation, and KPI endpoints for SLA compliance, CSAT, first-contact resolution, and ticket volume trends.
