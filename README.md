@@ -8,11 +8,19 @@ Synthetic workforce-management data engineering project using Python, SQL Server
 ![MetroWorks ERD](images/metroworks_erd.png)
 
 
+The database uses nine related tables to model tickets, agents, contact logs, surveys, schedules, managers, outages, CMDB items, and ticket transfers.
 
 
 ## API Documentation Preview
 ![API Documentation](images/apidocs_screenshot.png)
 
+
+
+The Flask API exposes paginated endpoints for the core operational and workforce datasets.
+
+
+
+## What This Project Demonstrates
 - Python data generation
 - SQL Server loading with `pandas.to_sql`
 - Primary keys, foreign keys, and indexes
