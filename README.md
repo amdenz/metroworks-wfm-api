@@ -2,9 +2,16 @@
 
 Synthetic workforce-management data engineering project using Python, SQL Server, and Flask.
 
-## What this demonstrates
+
+## Entity Relationship Diagram
+
+![MetroWorks ERD](images/metroworks_erd.png)
+
+
+
+
 ## API Documentation Preview
-![API Documentation](apidocs_screenshot.png)
+![API Documentation](images/apidocs_screenshot.png)
 
 - Python data generation
 - SQL Server loading with `pandas.to_sql`
