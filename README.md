@@ -12,7 +12,7 @@ The database uses nine related tables to model tickets, agents, contact logs, su
 
 
 ## API Documentation Preview
-![API Documentation](images/apidocs_screenshot.png)
+![API Documentation](images/metro_erd.png)
 
 
 
