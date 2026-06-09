@@ -5,14 +5,14 @@ Synthetic workforce-management data engineering project using Python, SQL Server
 
 ## Entity Relationship Diagram
 
-![MetroWorks ERD](images/metroworks_erd.png)
+![MetroWorks ERD](images/metro_erd.png)
 
 
 The database uses nine related tables to model tickets, agents, contact logs, surveys, schedules, managers, outages, CMDB items, and ticket transfers.
 
 
 ## API Documentation Preview
-![API Documentation](images/metro_erd.png)
+![API Documentation](images/apidocs_screenshot.png)
 
 
 
